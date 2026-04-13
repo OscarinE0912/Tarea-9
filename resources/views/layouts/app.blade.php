@@ -74,8 +74,8 @@
 
   <!-- Footer -->
   <footer class="main-footer">
-    <strong>Actividad 11</strong> &mdash; Desarrollado por <strong>Tu Nombre</strong>
-    <div class="float-right">Materia: Desarrollo Web | {{ date('Y') }}</div>
+    <strong>Actividad 11</strong> &mdash; Desarrollado por <strong>Oscar</strong>
+    <div class="float-right">Materia: Desarrollo Web{{ date('Y') }}</div>
   </footer>
 
 </div>
